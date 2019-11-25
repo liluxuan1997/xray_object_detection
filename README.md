@@ -33,9 +33,10 @@ Since the dataset of our project follows the format of VOC dataset. The orgnizat
                    +--JpegImages
 
 ## Models
-[Faster-RCNN] https://cloud.tsinghua.edu.cn/f/f0a5039e871340ccbc30/?dl=1
+[Faster-RCNN](https://cloud.tsinghua.edu.cn/f/f0a5039e871340ccbc30/?dl=1)
 
-[FoveaBox] https://cloud.tsinghua.edu.cn/f/c3f585ed72444f35852b/?dl=1
+[FoveaBox](https://cloud.tsinghua.edu.cn/f/c3f585ed72444f35852b/?dl=1)
 
-[Cascade-RCNN] https://cloud.tsinghua.edu.cn/f/91c23c8d9f1c4e279a3b/?dl=1
+[Cascade-RCNN](https://cloud.tsinghua.edu.cn/f/91c23c8d9f1c4e279a3b/?dl=1)
+
 Please check [GETTING_STARTED.md](GETTING_STARTED.md) for detailed instructions.
