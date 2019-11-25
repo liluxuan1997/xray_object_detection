@@ -24,12 +24,24 @@ The configs are in [configs/](configs/).
     
 ## Dataset
 Since the dataset of our project follows the format of VOC dataset. The orignization should be
-+--data
-   +--VOCdeckit
-       +--VOC2007
-           +--Annotations
-           +--ImageSets
-           +--JpegImages
 
-## Models and Configs
+    +--data
+
+         +--VOCdeckit
+   
+              +--VOC2007
+       
+                   +--Annotations
+           
+                   +--ImageSets
+           
+                   +--JpegImages
+
+## Models
+
+### Faster-RCNN
+
+### FoveaBox
+
+### Cascade-RCNN
 Please check [GETTING_STARTED.md](GETTING_STARTED.md) for detailed instructions.
