@@ -23,18 +23,13 @@ The configs are in [configs/](configs/).
     ./tools/dist_train.sh ${CONFIG_FILE} ${GPU_NUM} [optional arguments]
     
 ## Dataset
-Since the dataset of our project follows the format of VOC dataset. The orignization should be
+Since the dataset of our project follows the format of VOC dataset. The orgnization should be
 
     +--data
-
          +--VOCdeckit
-   
-              +--VOC2007
-       
-                   +--Annotations
-           
-                   +--ImageSets
-           
+              +--VOC2007       
+                   +--Annotations          
+                   +--ImageSets           
                    +--JpegImages
 
 ## Models
