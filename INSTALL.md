@@ -32,11 +32,11 @@ b. Install PyTorch stable or nightly and torchvision following the [official ins
 conda install pytorch torchvision -c pytorch
 ```
 
-c. Clone the FoveaBox repository.
+c. Clone the xray_object_detection repository.
 
 ```shell
-git clone https://github.com/taokong/FoveaBox.git
-cd FoveaBox
+git clone https://github.com/liluxuan1997/xray_object_detection.git
+cd xray_object_detection
 ```
 
 d. Install FoveaBox (other dependencies will be installed automatically).
